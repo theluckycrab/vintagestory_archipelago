@@ -2,5 +2,6 @@ bin/
 obj/
 lib/
 build
+worlds/vintagestory/__pycache__
 *.dll
 *.pdb
